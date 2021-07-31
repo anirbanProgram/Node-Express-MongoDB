@@ -1,4 +1,4 @@
-# Node-Express-MongoDB
+# Node-Express-MongoDB-Atlas
 This is a basic setup for REST api using nodeJS, ExpressJS, and MongoDB.
 
 # Installation
