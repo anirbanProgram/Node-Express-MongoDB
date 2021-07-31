@@ -1,0 +1,28 @@
+{
+  "name": "node-express-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirbanProgram/Node-express-mongoDB.git"
+  },
+  "author": "Anirban Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirbanProgram/Node-express-mongoDB/issues"
+  },
+  "homepage": "https://github.com/anirbanProgram/Node-express-mongoDB#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
